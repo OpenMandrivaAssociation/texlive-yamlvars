@@ -1,6 +1,6 @@
 Name:		texlive-yamlvars
 Version:	64949
-Release:	1
+Release:	2
 Summary:	A YAML parser and tool for easy LaTeX definition creation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yamlvars
