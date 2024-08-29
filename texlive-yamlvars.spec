@@ -1,5 +1,5 @@
 Name:		texlive-yamlvars
-Version:	69071
+Version:	72052
 Release:	1
 Summary:	A YAML parser and tool for easy LaTeX definition creation
 Group:		Publishing
