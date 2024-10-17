@@ -3,7 +3,7 @@ Version:	72052
 Release:	1
 Summary:	A YAML parser and tool for easy LaTeX definition creation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yamlvars
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yamlvars
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yamlvars.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yamlvars.doc.r%{version}.tar.xz
